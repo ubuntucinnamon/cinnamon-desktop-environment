@@ -1,0 +1,25 @@
+Source: cinnamon-desktop-environment
+Section: metapackages
+Priority: optional
+Maintainer: Debian Cinnamon Team <pkg-cinnamon-team@lists.alioth.debian.org>
+Uploaders: Maximiliano Curia <maxy@debian.org>,
+           Margarita Manterola <marga@debian.org>
+Build-Depends: debhelper (>= 9),
+Standards-Version: 3.9.5
+Homepage: http://cinnamon.linuxmint.com/
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-cinnamon/cinnamon-desktop-environment.git
+Vcs-Git: git://anonscm.debian.org/pkg-cinnamon/cinnamon-desktop-environment.git
+
+Package: cinnamon-desktop-environment
+Architecture: all
+Depends: cinnamon,
+         cinnamon-screensaver,
+         cinnamon-session,
+         cinnamon-settings-daemon,
+         muffin,
+         nemo,
+Recommends: cinnamon-bluetooth,
+            cinnamon-translations,
+Description: Meta package for the Cinnamon desktop environment
+ This package depends on all needed packages to obtain a complete cinnamon
+ installation.
