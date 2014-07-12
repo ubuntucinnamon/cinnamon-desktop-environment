@@ -13,14 +13,15 @@ Vcs-Git: git://anonscm.debian.org/pkg-cinnamon/cinnamon-desktop-environment.git
 Package: cinnamon-desktop-environment
 Architecture: all
 Depends: ${misc:Depends},
-         cinnamon,
-         cinnamon-screensaver,
-         cinnamon-session,
-         cinnamon-settings-daemon,
-         muffin,
-         nemo
-Recommends: cinnamon-bluetooth,
-            cinnamon-translations
+         cinnamon (>= 2.2)
+         cinnamon-control-center (>= 2.2),
+         cinnamon-screensaver (>= 2.2),
+         cinnamon-session (>= 2.2),
+         cinnamon-settings-daemon (>= 2.2),
+         muffin (>= 2.2),
+         nemo (>= 2.2)
+Recommends: cinnamon-bluetooth (>= 3.8),
+            cinnamon-translations (>= 2.2)
 Description: Meta package for the Cinnamon desktop environment
  This package depends on all needed packages to obtain a complete cinnamon
  installation.
