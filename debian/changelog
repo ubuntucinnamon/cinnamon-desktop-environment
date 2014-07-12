@@ -1,5 +1,5 @@
-cinnamon-desktop-environment (2.2~1) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (2.2) experimental; urgency=medium
 
   * Initial Release.
 
- -- Margarita Manterola <marga@debian.org>  Sat, 12 Jul 2014 13:23:39 +0200
+ -- Margarita Manterola <marga@debian.org>  Sat, 12 Jul 2014 13:34:02 +0200
