@@ -13,7 +13,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-cinnamon/cinnamon-desktop-environment.git
 Package: cinnamon-core
 Architecture: all
 Depends: ${misc:Depends},
-         cinnamon (>= 2.2)
+         cinnamon (>= 2.2),
          cinnamon-control-center (>= 2.2),
          cinnamon-screensaver (>= 2.2),
          cinnamon-session (>= 2.2),
@@ -22,7 +22,7 @@ Depends: ${misc:Depends},
          nemo (>= 2.2),
          lightdm | gdm3
 Recommends: cinnamon-bluetooth (>= 3.8),
-            cinnamon-translations (>= 2.2)
+            cinnamon-translations (>= 2.2),
             gnome-keyring,
             libpam-gnome-keyring,
             gnome-icon-theme,
@@ -57,7 +57,7 @@ Recommends: empathy,
             gedit-plugins,
             gimp,
             gnome-font-viewer,
-            gnome-user-share
+            gnome-user-share,
             gnome-system-monitor,
             gnote,
             gstreamer1.0-libav,
