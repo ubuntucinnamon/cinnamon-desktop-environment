@@ -32,7 +32,7 @@ Description: Cinnamon desktop environment - essential components
  These are the core components of Cinnamon, a desktop environment which
  provides advanced innovative features and a traditional user experience.
  .
- This meta-package depends on basic components needed to use the desktop
+ This metapackage depends on basic components needed to use the desktop
  environment.
 
 Package: cinnamon-desktop-environment
@@ -87,5 +87,5 @@ Description: Cinnamon desktop environment - full desktop with extra components
  These are the extended components of Cinnamon, a desktop environment which
  provides advanced innovative features and a traditional user experience.
  .
- This meta-package depends on all programs needed to have a fully fledged
+ This metapackage depends on all programs needed to have a fully fledged
  desktop environment.
