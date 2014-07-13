@@ -20,6 +20,7 @@ Depends: ${misc:Depends},
          cinnamon-settings-daemon (>= 2.2),
          muffin (>= 2.2),
          nemo (>= 2.2),
+         desktop-base,
          lightdm | gdm3
 Recommends: cinnamon-bluetooth (>= 3.8),
             cinnamon-translations (>= 2.2),
@@ -38,7 +39,6 @@ Package: cinnamon-desktop-environment
 Architecture: all
 Depends: ${misc:Depends},
          cinnamon-core (>= ${source:Version}),
-         desktop-base,
          empathy,
          eog,
          evince,
