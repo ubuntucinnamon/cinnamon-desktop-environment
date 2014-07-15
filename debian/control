@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Debian Cinnamon Team <pkg-cinnamon-team@lists.alioth.debian.org>
 Uploaders: Maximiliano Curia <maxy@debian.org>,
            Margarita Manterola <marga@debian.org>
-Build-Depends: debhelper (>= 9),
+Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
 Homepage: http://cinnamon.linuxmint.com/
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-cinnamon/cinnamon-desktop-environment.git
@@ -12,8 +12,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-cinnamon/cinnamon-desktop-environment.git
 
 Package: cinnamon-core
 Architecture: all
-Depends: ${misc:Depends},
-         cinnamon (>= 2.2),
+Depends: cinnamon (>= 2.2),
          cinnamon-control-center (>= 2.2),
          cinnamon-screensaver (>= 2.2),
          cinnamon-session (>= 2.2),
@@ -21,12 +20,13 @@ Depends: ${misc:Depends},
          muffin (>= 2.2),
          nemo (>= 2.2),
          desktop-base,
-         lightdm | gdm3
+         lightdm | gdm3,
+         ${misc:Depends}
 Recommends: cinnamon-bluetooth (>= 3.8),
             cinnamon-translations (>= 2.2),
             gnome-keyring,
-            libpam-gnome-keyring,
-            gnome-themes-standard
+            gnome-themes-standard,
+            libpam-gnome-keyring
 Suggests: cinnamon-desktop-environment
 Description: Cinnamon desktop environment - essential components
  These are the core components of Cinnamon, a desktop environment which
@@ -37,11 +37,9 @@ Description: Cinnamon desktop environment - essential components
 
 Package: cinnamon-desktop-environment
 Architecture: all
-Depends: ${misc:Depends},
-         cinnamon-core (>= ${source:Version}),
+Depends: cinnamon-core (>= ${source:Version}),
          eog,
          evince,
-         nemo-fileroller,
          fonts-droid,
          fonts-liberation,
          gedit,
@@ -51,9 +49,11 @@ Depends: ${misc:Depends},
          gnome-terminal,
          icedove,
          iceweasel,
+         nemo-fileroller,
          pidgin,
          totem,
-         xdg-user-dirs-gtk
+         xdg-user-dirs-gtk,
+         ${misc:Depends}
 Recommends: brasero,
             cheese,
             gdebi,
@@ -62,21 +62,21 @@ Recommends: brasero,
             gnome-font-viewer,
             gnome-games,
             gnome-orca,
-            gnome-user-share,
             gnome-system-monitor,
+            gnome-user-share,
             gnote,
             gstreamer1.0-libav,
             gstreamer1.0-plugins-ugly,
             hamster-applet,
             inkscape,
-            libreoffice-gnome,
-            libreoffice-writer,
             libreoffice-calc,
+            libreoffice-gnome,
             libreoffice-impress,
+            libreoffice-writer,
             mate-themes,
             rhythmbox,
-            rhythmbox-plugins,
             rhythmbox-plugin-cdrecorder,
+            rhythmbox-plugins,
             shotwell,
             simple-scan,
             sound-juicer,
