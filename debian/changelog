@@ -1,5 +1,6 @@
 cinnamon-desktop-environment (2.2) experimental; urgency=medium
 
+  [ Margarita Manterola ]
   * Initial Release.
 
- -- Margarita Manterola <marga@debian.org>  Sat, 12 Jul 2014 13:34:02 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 16 Jul 2014 11:21:03 +0200
