@@ -1,3 +1,9 @@
+cinnamon-desktop-environment (2.2.1~) UNRELEASED; urgency=medium
+
+  * debian/control: cinnamon-translations->cinnamon-l10n.
+
+ -- Fabio Fantoni <fantonifabio@tiscali.it>  Thu, 24 Jul 2014 14:47:49 +0200
+
 cinnamon-desktop-environment (2.2) experimental; urgency=medium
 
   [ Margarita Manterola ]
