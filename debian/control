@@ -56,6 +56,7 @@ Depends: cinnamon-core (>= ${source:Version}),
          ${misc:Depends}
 Recommends: brasero,
             cheese,
+            cups,
             gdebi,
             gedit-plugins,
             gimp,
