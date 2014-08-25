@@ -1,6 +1,10 @@
 cinnamon-desktop-environment (2.2.2~) UNRELEASED; urgency=medium
 
+  [ Fabio Fantoni ]
   * debian/control: cups as recommended in cinnamon-desktop-environment.
+
+  [ Margarita Manterola ]
+  * debian/control: remove cinnamon-bluetooth as it's not available right now.
 
  -- Fabio Fantoni <fantonifabio@tiscali.it>  Thu, 31 Jul 2014 10:36:54 +0200
 

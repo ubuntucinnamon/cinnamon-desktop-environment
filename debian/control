@@ -22,8 +22,7 @@ Depends: cinnamon (>= 2.2),
          desktop-base,
          lightdm | gdm3,
          ${misc:Depends}
-Recommends: cinnamon-bluetooth (>= 3.8),
-            cinnamon-l10n (>= 2.2),
+Recommends: cinnamon-l10n (>= 2.2),
             gnome-keyring,
             gnome-themes-standard,
             libpam-gnome-keyring
