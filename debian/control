@@ -39,7 +39,7 @@ Package: cinnamon-desktop-environment
 Architecture: all
 Depends: cinnamon-core (>= ${source:Version}),
          eog,
-         evince,
+         evince | evince-gtk,
          fonts-droid,
          fonts-liberation,
          gedit,
