@@ -1,9 +1,9 @@
-cinnamon-desktop-environment (2.2.3~) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (2.2.3) unstable; urgency=medium
 
   * Add optional dependency for evince or evince-gtk.
   * Add synaptic to Recommends for cinnamon-desktop-environment.
 
- -- Margarita Manterola <marga@debian.org>  Sat, 06 Sep 2014 12:28:19 +0200
+ -- Margarita Manterola <marga@debian.org>  Sun, 07 Sep 2014 17:08:05 +0200
 
 cinnamon-desktop-environment (2.2.2) unstable; urgency=medium
 
