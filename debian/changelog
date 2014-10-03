@@ -1,3 +1,9 @@
+cinnamon-desktop-environment (2.2.4~) UNRELEASED; urgency=medium
+
+  * 
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 03 Oct 2014 15:14:09 +0200
+
 cinnamon-desktop-environment (2.2.3) unstable; urgency=medium
 
   * Add optional dependency for evince or evince-gtk.
