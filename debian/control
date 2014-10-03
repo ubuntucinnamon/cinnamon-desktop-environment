@@ -21,7 +21,7 @@ Depends: cinnamon (>= 2.2),
          muffin (>= 2.2),
          nemo (>= 2.2),
          desktop-base,
-         lightdm | gdm3,
+         lightdm | gdm3 | x-display-manager,
          ${misc:Depends}
 Recommends: cinnamon-l10n (>= 2.2),
             gnome-keyring,
