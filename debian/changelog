@@ -1,7 +1,12 @@
 cinnamon-desktop-environment (2.2.4~) UNRELEASED; urgency=medium
 
+  [ Maximiliano Curia ]
   * Move the dependency on lightdm to a Recommends of
     lightdm | gdm3 | x-display-manager
+
+  [ Margarita Manterola ]
+  * Add Recommends sound-theme-freedesktop to cinnamon-desktop-environment.
+    (Closes: #766558)
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 03 Oct 2014 15:14:09 +0200
 
