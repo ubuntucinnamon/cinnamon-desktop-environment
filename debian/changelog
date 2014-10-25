@@ -1,6 +1,7 @@
 cinnamon-desktop-environment (2.2.4~) UNRELEASED; urgency=medium
 
-  * Any display-manager will do.
+  * Move the dependency on lightdm to a Recommends of
+    lightdm | gdm3 | x-display-manager
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 03 Oct 2014 15:14:09 +0200
 
