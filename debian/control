@@ -13,16 +13,16 @@ Vcs-Git: git://anonscm.debian.org/pkg-cinnamon/cinnamon-desktop-environment.git
 
 Package: cinnamon-core
 Architecture: all
-Depends: cinnamon (>= 2.2),
-         cinnamon-control-center (>= 2.2),
-         cinnamon-screensaver (>= 2.2),
-         cinnamon-session (>= 2.2),
-         cinnamon-settings-daemon (>= 2.2),
-         muffin (>= 2.2),
-         nemo (>= 2.2),
+Depends: cinnamon (>= 2.6),
+         cinnamon-control-center (>= 2.6),
+         cinnamon-screensaver (>= 2.6),
+         cinnamon-session (>= 2.6),
+         cinnamon-settings-daemon (>= 2.6),
+         muffin (>= 2.6),
+         nemo (>= 2.6),
          desktop-base,
          ${misc:Depends}
-Recommends: cinnamon-l10n (>= 2.2),
+Recommends: cinnamon-l10n (>= 2.6),
             gnome-keyring,
             gnome-themes-standard,
             libpam-gnome-keyring,
