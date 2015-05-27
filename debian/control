@@ -25,6 +25,7 @@ Depends: cinnamon (>= 2.6),
 Recommends: cinnamon-l10n (>= 2.6),
             gnome-keyring,
             gnome-themes-standard,
+            gstreamer1.0-plugins-good,
             libpam-gnome-keyring,
             lightdm | gdm3 | x-display-manager
 Suggests: cinnamon-desktop-environment
