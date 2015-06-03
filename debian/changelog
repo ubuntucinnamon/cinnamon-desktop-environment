@@ -1,10 +1,13 @@
-cinnamon-desktop-environment (2.6.0~) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (2.6.0) unstable; urgency=medium
 
+  [ Fabio Fantoni ]
   * Drop nemo-fileroller from dependencies.
   * Dump cinnamon related softwares version to 2.6.
   * Drop gnome-media from from dependencies. (Closes: #786949)
 
- -- Fabio Fantoni <fantonifabio@tiscali.it>  Mon, 25 May 2015 11:47:05 +0200
+  [ Maximiliano Curia ]
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 03 Jun 2015 21:46:33 +0200
 
 cinnamon-desktop-environment (2.2.4) unstable; urgency=medium
 
