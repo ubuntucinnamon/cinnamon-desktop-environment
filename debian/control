@@ -34,23 +34,23 @@ Description: Cinnamon desktop environment - essential components
  provides advanced innovative features and a traditional user experience.
  .
  This metapackage depends on basic components needed to use the desktop
- environment.
+ environment. Install this if you want a minimal cinnamon desktop.
 
 Package: cinnamon-desktop-environment
 Architecture: all
 Depends: cinnamon-core (>= ${source:Version}),
          eog,
-         evince | evince-gtk,
+         evince | evince-gtk | pdf-viewer,
          fonts-droid,
          fonts-liberation,
          gedit,
-         gnome-calculator,
+         gnome-calculator | galculator,
          gnome-screenshot,
          gnome-terminal,
          icedove | thunderbird | evolution | geary,
          iceweasel | firefox | chromium | gnome-www-browser,
-         pidgin,
-         totem,
+         pidgin | empathy,
+         totem | gnome-mplayer | vlc,
          xdg-user-dirs-gtk,
          ${misc:Depends}
 Recommends: brasero,
@@ -82,7 +82,7 @@ Recommends: brasero,
             sound-juicer,
             sound-theme-freedesktop,
             synaptic,
-            transmission-gtk,
+            transmission-gtk | deluge,
             vinagre,
             vino,
             xchat,
@@ -93,4 +93,5 @@ Description: Cinnamon desktop environment - full desktop with extra components
  provides advanced innovative features and a traditional user experience.
  .
  This metapackage depends on all programs needed to have a fully fledged
- desktop environment.
+ desktop environment. Install this if you want a complete cinnamon desktop,
+ including graphical apps that allow users to perform almost all everyday tasks.

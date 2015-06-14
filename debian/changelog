@@ -2,6 +2,10 @@ cinnamon-desktop-environment (2.6.1) UNRELEASED; urgency=medium
 
   * Add firefox and thunderbird as alternatives to iceweasel and icedove,
     to avoid unnecessary forks between Debian and Ubuntu.
+  * Add more alternatives to the suggested programs, to allow users more choice.
+  * Improve descriptions of cinnamon-core and cinnamon-desktop-environment to
+    make it clear that cinnamon-desktop-environment is a fully-fledged desktop,
+    not just the window manager. (Closes: #771418, #764412)
 
  -- Margarita Manterola <marga@debian.org>  Sun, 14 Jun 2015 18:13:27 +0200
 
