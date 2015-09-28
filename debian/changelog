@@ -1,6 +1,7 @@
 cinnamon-desktop-environment (2.6.3~) UNRELEASED; urgency=medium
 
   * Recommend blueman for bluetooth integration. (Closes: #800346)
+  * Recommend hexchat over xchat.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 28 Sep 2015 17:28:36 +0200
 

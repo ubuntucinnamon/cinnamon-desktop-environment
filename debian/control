@@ -86,7 +86,7 @@ Recommends: brasero,
             transmission-gtk | deluge,
             vinagre,
             vino,
-            xchat,
+            hexchat | xchat,
             yelp,
             zenity
 Description: Cinnamon desktop environment - full desktop with extra components
