@@ -54,6 +54,7 @@ Depends: cinnamon-core (>= ${source:Version}),
          xdg-user-dirs-gtk,
          ${misc:Depends}
 Recommends: brasero,
+            blueman,
             cheese,
             cups,
             gdebi,
