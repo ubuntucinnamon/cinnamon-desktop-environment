@@ -3,6 +3,9 @@ cinnamon-desktop-environment (2.8.0~) UNRELEASED; urgency=medium
   [ Maximiliano Curia ]
   * Recommend blueman for bluetooth integration. (Closes: #800346)
   * Recommend hexchat over xchat.
+  * Add gvfs-bin core dependency. (Closes: #801812)
+  * Recommend gvfs-fuse, fuse is finicky, but gnome-core depends on it,
+    and it allows to gracefully use non gvfs aware applications.
 
   [ Fabio Fantoni ]
   * Bump cinnamon versions to 2.8.
