@@ -43,7 +43,7 @@ Architecture: all
 Depends: cinnamon-core (>= ${source:Version}),
          eog,
          evince | evince-gtk | pdf-viewer,
-         fonts-droid,
+         fonts-noto,
          fonts-liberation,
          gedit,
          gnome-calculator | galculator,
