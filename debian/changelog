@@ -1,4 +1,4 @@
-cinnamon-desktop-environment (2.8.0~) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (2.8.0) unstable; urgency=medium
 
   [ Maximiliano Curia ]
   * Recommend blueman for bluetooth integration. (Closes: #800346)
@@ -11,7 +11,7 @@ cinnamon-desktop-environment (2.8.0~) UNRELEASED; urgency=medium
   [ Fabio Fantoni ]
   * Bump cinnamon versions to 2.8.
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 28 Sep 2015 17:28:36 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 08 Jan 2016 20:19:45 +0100
 
 cinnamon-desktop-environment (2.6.2) unstable; urgency=medium
 
