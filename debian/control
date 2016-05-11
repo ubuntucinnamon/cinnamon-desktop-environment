@@ -8,8 +8,8 @@ Uploaders: Maximiliano Curia <maxy@debian.org>,
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
 Homepage: http://cinnamon.linuxmint.com/
-Vcs-Browser: http://anonscm.debian.org/cgit/pkg-cinnamon/cinnamon-desktop-environment.git
-Vcs-Git: git://anonscm.debian.org/pkg-cinnamon/cinnamon-desktop-environment.git
+Vcs-Browser: https://anonscm.debian.org/git/pkg-cinnamon/cinnamon-desktop-environment.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-cinnamon/cinnamon-desktop-environment.git
 
 Package: cinnamon-core
 Architecture: all
@@ -43,8 +43,8 @@ Architecture: all
 Depends: cinnamon-core (>= ${source:Version}),
          eog,
          evince | evince-gtk | pdf-viewer,
-         fonts-noto,
          fonts-liberation,
+         fonts-noto,
          gedit,
          gnome-calculator | galculator,
          gnome-screenshot,
