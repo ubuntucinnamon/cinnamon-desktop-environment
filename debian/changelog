@@ -1,3 +1,12 @@
+cinnamon-desktop-environment (3) unstable; urgency=medium
+
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * Add a .gitattributes file to use dpkg-mergechangelogs
+  * Bump Standards-Version to 3.9.8
+  * Bump dependencies to cinnamon 3
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 13 May 2016 12:54:28 +0200
+
 cinnamon-desktop-environment (2.8.0) unstable; urgency=medium
 
   [ Maximiliano Curia ]
