@@ -1,10 +1,11 @@
-cinnamon-desktop-environment (3.0.1~) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (3.0.1) unstable; urgency=medium
 
+  [ Maximiliano Curia ]
   * Change alternative depends to prefer firefox-esr, while keeping iceweasel
     for stable backports (Closes: #837367) Thanks to Jeremy Bicha for
     reporting.
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 17 Oct 2016 20:14:55 +0200
+ -- Margarita Manterola <marga@debian.org>  Mon, 17 Oct 2016 20:29:19 +0200
 
 cinnamon-desktop-environment (3) unstable; urgency=medium
 
