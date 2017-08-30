@@ -27,11 +27,9 @@ Depends:
  ${misc:Depends},
 Recommends:
  cinnamon-l10n (>= 3.4),
- gnome-keyring,
  gnome-themes-standard,
  gstreamer1.0-plugins-good,
  gvfs-fuse,
- libpam-gnome-keyring,
  lightdm | gdm3 | x-display-manager,
 Suggests: cinnamon-desktop-environment
 Description: Cinnamon desktop environment - essential components
