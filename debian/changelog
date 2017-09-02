@@ -1,9 +1,13 @@
-cinnamon-desktop-environment (3.4~) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (3.4) unstable; urgency=medium
 
+  [ Fabio Fantoni ]
   * Bump dependencies to cinnamon 3.4.
   * Removed deprecated gnome-keyring from recommends.
 
- -- Fabio Fantoni <fantonifabio@tiscali.it>  Wed, 30 Aug 2017 12:58:16 +0200
+  [ Maximiliano Curia ]
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 02 Sep 2017 07:39:29 +0200
 
 cinnamon-desktop-environment (3.2) unstable; urgency=medium
 
