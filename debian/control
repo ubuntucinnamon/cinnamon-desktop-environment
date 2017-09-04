@@ -69,7 +69,6 @@ Recommends:
  gnome-games,
  gnome-orca,
  gnome-system-monitor,
- gnome-user-share,
  gnote,
  gstreamer1.0-libav,
  gstreamer1.0-plugins-ugly,

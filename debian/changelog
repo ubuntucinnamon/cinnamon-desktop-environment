@@ -1,3 +1,9 @@
+cinnamon-desktop-environment (3.4.1~) UNRELEASED; urgency=medium
+
+  * Drop gnome-user-share from recommends. (Closes: #874190)
+
+ -- Fabio Fantoni <fantonifabio@tiscali.it>  Mon, 04 Sep 2017 14:53:23 +0200
+
 cinnamon-desktop-environment (3.4) unstable; urgency=medium
 
   [ Fabio Fantoni ]
