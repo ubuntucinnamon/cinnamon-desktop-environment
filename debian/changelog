@@ -3,7 +3,7 @@ cinnamon-desktop-environment (3.6~) UNRELEASED; urgency=medium
   * Drop gnome-user-share from recommends. (Closes: #874190)
   * Add k3b as brasero alternative and gnome-photos as shotwell alternative.
   * Remove hamster-applet as not update for long time, orphan and depends
-    on deprecated packages.
+    on deprecated packages. (Closes: #881613)
   * Add gnome-disk-utility, gnome-sound-recorder and system-config-printer
     in recommends of cinnamon-desktop-environment.
   * Change cinnamon-desktop-environment Architecture from all to any for
