@@ -15,18 +15,18 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-cinnamon/cinnamon-desktop-environmen
 Package: cinnamon-core
 Architecture: all
 Depends:
- cinnamon (>= 3.4),
- cinnamon-control-center (>= 3.4),
- cinnamon-screensaver (>= 3.4),
- cinnamon-session (>= 3.4),
- cinnamon-settings-daemon (>= 3.4),
+ cinnamon (>= 3.6),
+ cinnamon-control-center (>= 3.6),
+ cinnamon-screensaver (>= 3.6),
+ cinnamon-session (>= 3.6),
+ cinnamon-settings-daemon (>= 3.6),
  desktop-base,
  gvfs-bin,
- muffin (>= 3.4),
- nemo (>= 3.4),
+ muffin (>= 3.6),
+ nemo (>= 3.6),
  ${misc:Depends},
 Recommends:
- cinnamon-l10n (>= 3.4),
+ cinnamon-l10n (>= 3.6),
  gnome-themes-standard,
  gstreamer1.0-plugins-good,
  gvfs-fuse,

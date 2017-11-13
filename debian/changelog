@@ -1,4 +1,4 @@
-cinnamon-desktop-environment (3.4.1~) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (3.6~) UNRELEASED; urgency=medium
 
   * Drop gnome-user-share from recommends. (Closes: #874190)
   * Add k3b as brasero alternative and gnome-photos as shotwell alternative.
@@ -7,7 +7,8 @@ cinnamon-desktop-environment (3.4.1~) UNRELEASED; urgency=medium
   * Add gnome-disk-utility, gnome-sound-recorder and system-config-printer
     in recommends of cinnamon-desktop-environment.
   * Change cinnamon-desktop-environment Architecture from all to any for
-    support deps and recommends that are not available in all architectures. 
+    support deps and recommends that are not available in all architectures.
+  * Bump dependencies to cinnamon 3.6.
 
  -- Fabio Fantoni <fantonifabio@tiscali.it>  Wed, 06 Sep 2017 10:41:21 +0200
 
