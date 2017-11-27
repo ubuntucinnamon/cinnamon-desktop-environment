@@ -21,7 +21,6 @@ Depends:
  cinnamon-session (>= 3.6),
  cinnamon-settings-daemon (>= 3.6),
  desktop-base,
- gvfs-bin,
  muffin (>= 3.6),
  nemo (>= 3.6),
  ${misc:Depends},
