@@ -7,7 +7,7 @@ Uploaders:
  Margarita Manterola <marga@debian.org>,
  Fabio Fantoni <fantonifabio@tiscali.it>,
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.8
+Standards-Version: 4.1.1
 Homepage: http://cinnamon.linuxmint.com/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-cinnamon/cinnamon-desktop-environment.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-cinnamon/cinnamon-desktop-environment.git
