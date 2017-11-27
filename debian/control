@@ -40,7 +40,7 @@ Description: Cinnamon desktop environment - essential components
  environment. Install this if you want a minimal cinnamon desktop.
 
 Package: cinnamon-desktop-environment
-Architecture: any
+Architecture: all
 Depends:
  cinnamon-core (>= ${source:Version}),
  eog,
@@ -60,12 +60,12 @@ Depends:
 Recommends:
  blueman,
  brasero | k3b,
- cheese [linux-any],
+ cheese,
  cups,
  gdebi,
  gedit-plugins,
  gimp,
- gnome-disk-utility [linux-any],
+ gnome-disk-utility,
  gnome-font-viewer,
  gnome-games,
  gnome-orca,
@@ -85,7 +85,7 @@ Recommends:
  rhythmbox-plugin-cdrecorder,
  rhythmbox-plugins,
  shotwell | gnome-photos,
- simple-scan [linux-any],
+ simple-scan,
  system-config-printer,
  sound-juicer,
  sound-theme-freedesktop,
