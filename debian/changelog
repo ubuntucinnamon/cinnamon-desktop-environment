@@ -1,5 +1,6 @@
-cinnamon-desktop-environment (3.6~) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (3.6~1) UNRELEASED; urgency=medium
 
+  [ Fabio Fantoni ]
   * Drop gnome-user-share from recommends. (Closes: #874190)
   * Add k3b as brasero alternative and gnome-photos as shotwell alternative.
   * Remove hamster-applet as not update for long time, orphan and depends
@@ -8,7 +9,12 @@ cinnamon-desktop-environment (3.6~) UNRELEASED; urgency=medium
     in recommends of cinnamon-desktop-environment.
   * Bump dependencies to cinnamon 3.6.
 
- -- Fabio Fantoni <fantonifabio@tiscali.it>  Wed, 06 Sep 2017 10:41:21 +0200
+  [ Maximiliano Curia ]
+  * Drop gvfs-bin dependency.
+    Thanks to Paul Wise for the report (Closes: 877739)
+  * Bump Standards-Version to 4.1.1.
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 27 Nov 2017 16:54:13 +0100
 
 cinnamon-desktop-environment (3.4) unstable; urgency=medium
 
