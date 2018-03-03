@@ -9,8 +9,8 @@ Uploaders:
 Build-Depends: debhelper (>= 9)
 Standards-Version: 4.1.1
 Homepage: http://cinnamon.linuxmint.com/
-Vcs-Browser: https://anonscm.debian.org/git/pkg-cinnamon/cinnamon-desktop-environment.git
-Vcs-Git: https://anonscm.debian.org/git/pkg-cinnamon/cinnamon-desktop-environment.git
+Vcs-Browser: https://salsa.debian.org/cinnamon-team/cinnamon-desktop-environment
+Vcs-Git: https://salsa.debian.org/cinnamon-team/cinnamon-desktop-environment.git
 
 Package: cinnamon-core
 Architecture: all
@@ -68,8 +68,8 @@ Recommends:
  gnome-font-viewer,
  gnome-games,
  gnome-orca,
- gnome-system-monitor,
  gnome-sound-recorder,
+ gnome-system-monitor,
  gnote,
  gstreamer1.0-libav,
  gstreamer1.0-plugins-ugly,
@@ -85,10 +85,10 @@ Recommends:
  rhythmbox-plugins,
  shotwell | gnome-photos,
  simple-scan,
- system-config-printer,
  sound-juicer,
  sound-theme-freedesktop,
  synaptic,
+ system-config-printer,
  transmission-gtk | deluge,
  vinagre,
  vino,
