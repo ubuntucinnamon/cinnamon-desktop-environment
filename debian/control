@@ -50,7 +50,7 @@ Depends:
  gedit,
  gnome-calculator | galculator,
  gnome-screenshot,
- gnome-terminal,
+ gnome-terminal | x-terminal-emulator,
  icedove | thunderbird | evolution | geary,
  pidgin | empathy,
  totem | gnome-mplayer | vlc,
