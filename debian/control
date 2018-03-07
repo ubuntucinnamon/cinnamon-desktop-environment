@@ -26,7 +26,7 @@ Depends:
  ${misc:Depends},
 Recommends:
  cinnamon-l10n (>= 3.6),
- gnome-themes-extra,
+ gnome-themes-extra | gnome-themes-standard,
  gstreamer1.0-plugins-good,
  gvfs-fuse,
  lightdm | gdm3 | x-display-manager,

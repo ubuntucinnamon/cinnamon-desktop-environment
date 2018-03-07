@@ -10,6 +10,8 @@ cinnamon-desktop-environment (3.6~1) UNRELEASED; urgency=medium
   * Add gnome-disk-utility, gnome-sound-recorder and system-config-printer
     in recommends of cinnamon-desktop-environment.
   * Bump dependencies to cinnamon 3.6.
+  * Add gnome-themes-extra that replace gnome-themes-standard
+    Thanks to Alf Gaida (Closes: #892035)
 
   [ Maximiliano Curia ]
   * Drop gvfs-bin dependency.
