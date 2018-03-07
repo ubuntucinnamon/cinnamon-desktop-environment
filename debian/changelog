@@ -12,6 +12,8 @@ cinnamon-desktop-environment (3.6~1) UNRELEASED; urgency=medium
   * Bump dependencies to cinnamon 3.6.
   * Add gnome-themes-extra that replace gnome-themes-standard
     Thanks to Alf Gaida (Closes: #892035)
+  * Add orca that replace gnome-orca
+    Jeremy Bicha for the report (Closes: #885099)
 
   [ Maximiliano Curia ]
   * Drop gvfs-bin dependency.

@@ -67,7 +67,7 @@ Recommends:
  gnome-disk-utility,
  gnome-font-viewer,
  gnome-games,
- gnome-orca,
+ orca | gnome-orca,
  gnome-sound-recorder,
  gnome-system-monitor,
  gnote,
