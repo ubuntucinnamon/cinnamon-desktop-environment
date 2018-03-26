@@ -1,7 +1,7 @@
 Source: cinnamon-desktop-environment
 Section: metapackages
 Priority: optional
-Maintainer: Debian Cinnamon Team <pkg-cinnamon-team@lists.alioth.debian.org>
+Maintainer: Debian Cinnamon Team <debian-cinnamon@lists.debian.org>
 Uploaders:
  Maximiliano Curia <maxy@debian.org>,
  Margarita Manterola <marga@debian.org>,
