@@ -1,4 +1,4 @@
-cinnamon-desktop-environment (3.6~1) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (3.6) unstable; urgency=medium
 
   [ Fabio Fantoni ]
   * Drop gnome-user-share from recommends. (Closes: #874190)
@@ -14,13 +14,25 @@ cinnamon-desktop-environment (3.6~1) UNRELEASED; urgency=medium
     Thanks to Alf Gaida (Closes: #892035)
   * Add orca that replace gnome-orca
     Jeremy Bicha for the report (Closes: #885099)
+  * Drop alternate depends on evince-gtk. (Closes: #884359)
+  * add gnome-themes-standard as alternative and update changelog
+  * Add orca that replace gnome-orca
 
   [ Maximiliano Curia ]
   * Drop gvfs-bin dependency.
     Thanks to Paul Wise for the report (Closes: 877739)
   * Bump Standards-Version to 4.1.1.
+  * Use the salsa canonical urls
+  * Set new ml as Maintainer
+  * Bump Standards-Version to 4.1.3.
+  * Bump debhelper build-dep and compat to 11.
+  * Release to unstable
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 27 Nov 2017 16:54:13 +0100
+  [ Alf Gaida ]
+  * Add x-terminal-emulator similar as in cinnamon recommends
+  * Update control
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 26 Mar 2018 15:06:53 +0200
 
 cinnamon-desktop-environment (3.4) unstable; urgency=medium
 
