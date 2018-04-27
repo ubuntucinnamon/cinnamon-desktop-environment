@@ -1,3 +1,9 @@
+cinnamon-desktop-environment (3.8~) UNRELEASED; urgency=medium
+
+  * Bump dependencies to cinnamon 3.8.
+
+ -- Fabio Fantoni <fantonifabio@tiscali.it>  Fri, 27 Apr 2018 21:22:01 +0200
+
 cinnamon-desktop-environment (3.6) unstable; urgency=medium
 
   [ Fabio Fantoni ]
