@@ -1,5 +1,5 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Source: http://anonscm.debian.org/pkg-cinnamon/cinnamon-desktop-environment.git
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: https://salsa.debian.org/cinnamon-team/cinnamon-desktop-environment
 
 Files: debian/*
 Copyright: 2014, Maximiliano Curia <maxy@debian.org>
