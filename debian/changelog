@@ -11,7 +11,7 @@ cinnamon-desktop-environment (3.6) unstable; urgency=medium
   * Add k3b as brasero alternative and gnome-photos as shotwell alternative.
   * Remove hamster-applet as not update for long time, orphan and depends
     on deprecated packages. (Closes: #881613)
-  * Drop alternate depends on evince-gtk. 
+  * Drop alternate depends on evince-gtk.
     Thanks to Jeremy Bicha for the report (Closes: #884359)
   * Add gnome-disk-utility, gnome-sound-recorder and system-config-printer
     in recommends of cinnamon-desktop-environment.
