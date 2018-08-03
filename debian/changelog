@@ -1,8 +1,12 @@
-cinnamon-desktop-environment (3.8~) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (3.8~1) UNRELEASED; urgency=medium
 
+  [ Fabio Fantoni ]
   * Bump dependencies to cinnamon 3.8.
 
- -- Fabio Fantoni <fantonifabio@tiscali.it>  Fri, 27 Apr 2018 21:22:01 +0200
+  [ Maximiliano Curia ]
+  * Update debian/copyright
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 03 Aug 2018 13:57:09 +0200
 
 cinnamon-desktop-environment (3.6) unstable; urgency=medium
 
