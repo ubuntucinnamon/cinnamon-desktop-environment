@@ -44,7 +44,7 @@ Depends:
  cinnamon-core (>= ${source:Version}),
  eog,
  evince | pdf-viewer,
- firefox-esr | firefox | chromium | iceweasel | gnome-www-browser,
+ firefox-esr | firefox | chromium | gnome-www-browser,
  fonts-liberation,
  fonts-noto,
  gedit,

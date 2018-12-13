@@ -1,8 +1,9 @@
 cinnamon-desktop-environment (4.0~) UNRELEASED; urgency=medium
 
   * Bump dependencies to cinnamon 4.0.
+  * Drop iceweasel from alternatives (Closes: #910996)
 
- -- Norbert Preining <preining@debian.org>  Tue, 11 Dec 2018 19:46:25 +0900
+ -- Norbert Preining <preining@debian.org>  Thu, 13 Dec 2018 21:15:12 +0900
 
 cinnamon-desktop-environment (3.8) unstable; urgency=medium
 
