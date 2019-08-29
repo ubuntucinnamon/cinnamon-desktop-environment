@@ -15,17 +15,17 @@ Vcs-Git: https://salsa.debian.org/cinnamon-team/cinnamon-desktop-environment.git
 Package: cinnamon-core
 Architecture: all
 Depends:
- cinnamon (>= 4.0),
- cinnamon-control-center (>= 4.0),
- cinnamon-screensaver (>= 4.0),
- cinnamon-session (>= 4.0),
- cinnamon-settings-daemon (>= 4.0),
+ cinnamon (>= 4.2),
+ cinnamon-control-center (>= 4.2),
+ cinnamon-screensaver (>= 4.2),
+ cinnamon-session (>= 4.2),
+ cinnamon-settings-daemon (>= 4.2),
  desktop-base,
- muffin (>= 4.0),
- nemo (>= 4.0),
+ muffin (>= 4.2),
+ nemo (>= 4.2),
  ${misc:Depends},
 Recommends:
- cinnamon-l10n (>= 4.0),
+ cinnamon-l10n (>= 4.2),
  gnome-themes-extra | gnome-themes-standard,
  gstreamer1.0-plugins-good,
  gvfs-fuse,
