@@ -4,12 +4,17 @@ cinnamon-desktop-environment (4.2~) UNRELEASED; urgency=medium
 
  -- Norbert Preining <norbert@preining.info>  Thu, 29 Aug 2019 14:55:54 +0900
 
-cinnamon-desktop-environment (4.0~) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (4.0) unstable; urgency=medium
 
+  [ Norbert Preining ]
   * Bump dependencies to cinnamon 4.0.
   * Drop iceweasel from alternatives (Closes: #910996)
 
- -- Norbert Preining <preining@debian.org>  Thu, 13 Dec 2018 21:15:12 +0900
+  [ Maximiliano Curia ]
+  * Add a debian/salsa-ci.yml file
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 29 Aug 2019 12:04:47 -0300
 
 cinnamon-desktop-environment (3.8) unstable; urgency=medium
 
