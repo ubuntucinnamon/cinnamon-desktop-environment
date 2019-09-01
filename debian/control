@@ -6,6 +6,7 @@ Uploaders:
  Maximiliano Curia <maxy@debian.org>,
  Margarita Manterola <marga@debian.org>,
  Fabio Fantoni <fantonifabio@tiscali.it>,
+ Norbert Preining <norbert@preining.info>
 Build-Depends: debhelper (>= 11~)
 Standards-Version: 4.1.4
 Homepage: http://cinnamon.linuxmint.com/
