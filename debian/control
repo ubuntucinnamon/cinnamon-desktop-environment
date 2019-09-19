@@ -52,7 +52,7 @@ Depends:
  gnome-calculator | galculator,
  gnome-screenshot,
  gnome-terminal | x-terminal-emulator,
- icedove | thunderbird | evolution | geary,
+ thunderbird | evolution | geary,
  pidgin | empathy,
  totem | gnome-mplayer | vlc,
  xdg-user-dirs-gtk,
