@@ -1,8 +1,8 @@
-cinnamon-desktop-environment (4.3) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (4.3) unstable; urgency=medium
 
   * Upload to unstable
 
- -- Norbert Preining <norbert@preining.info>  Thu, 19 Sep 2019 13:43:57 +0900
+ -- Norbert Preining <norbert@preining.info>  Mon, 30 Sep 2019 22:27:28 +0900
 
 cinnamon-desktop-environment (4.2) experimental; urgency=medium
 
