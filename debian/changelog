@@ -1,3 +1,9 @@
+cinnamon-desktop-environment (4.3+really4.2.1) unstable; urgency=medium
+
+  * Upload a version that uses 4.2 via +really
+
+ -- Norbert Preining <norbert@preining.info>  Tue, 01 Oct 2019 01:15:35 +0900
+
 cinnamon-desktop-environment (4.3) unstable; urgency=medium
 
   * Upload to unstable
