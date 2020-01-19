@@ -1,8 +1,8 @@
-cinnamon-desktop-environment (4.4~1) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (4.4) experimental; urgency=medium
 
   * Bump dependencies to 4.4
 
- -- Norbert Preining <norbert@preining.info>  Mon, 06 Jan 2020 12:04:15 +0900
+ -- Norbert Preining <norbert@preining.info>  Sun, 19 Jan 2020 09:44:27 +0900
 
 cinnamon-desktop-environment (4.3+really4.2.1) unstable; urgency=medium
 
