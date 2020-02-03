@@ -1,3 +1,9 @@
+cinnamon-desktop-environment (4.5) unstable; urgency=medium
+
+  * Upload to unstable
+
+ -- Norbert Preining <norbert@preining.info>  Tue, 04 Feb 2020 08:35:58 +0900
+
 cinnamon-desktop-environment (4.4) experimental; urgency=medium
 
   * Bump dependencies to 4.4
