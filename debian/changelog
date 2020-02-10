@@ -1,3 +1,10 @@
+cinnamon-desktop-environment (4.5+really4.4.2) UNRELEASED; urgency=medium
+
+  * TODO SWITCH TO triple version numbers here!!!
+  * NEXT VERSION SHOULD BE 4.6.0 then 4.6.1 etc!
+
+ -- Norbert Preining <norbert@preining.info>  Mon, 10 Feb 2020 10:58:48 +0900
+
 cinnamon-desktop-environment (4.5+really4.4.1) unstable; urgency=medium
 
   * Fix versioning
