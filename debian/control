@@ -7,7 +7,7 @@ Uploaders:
  Margarita Manterola <marga@debian.org>,
  Fabio Fantoni <fantonifabio@tiscali.it>,
  Norbert Preining <norbert@preining.info>
-Build-Depends: debhelper (>= 11~)
+Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.1.4
 Homepage: http://cinnamon.linuxmint.com/
 Vcs-Browser: https://salsa.debian.org/cinnamon-team/cinnamon-desktop-environment
@@ -16,17 +16,17 @@ Vcs-Git: https://salsa.debian.org/cinnamon-team/cinnamon-desktop-environment.git
 Package: cinnamon-core
 Architecture: all
 Depends:
- cinnamon (>= 4.6),
- cinnamon-control-center (>= 4.6),
- cinnamon-screensaver (>= 4.6),
- cinnamon-session (>= 4.6),
- cinnamon-settings-daemon (>= 4.6),
+ cinnamon (>= 4.8),
+ cinnamon-control-center (>= 4.8),
+ cinnamon-screensaver (>= 4.8),
+ cinnamon-session (>= 4.8),
+ cinnamon-settings-daemon (>= 4.8),
  desktop-base,
- muffin (>= 4.6),
- nemo (>= 4.6),
+ muffin (>= 4.8),
+ nemo (>= 4.8),
  ${misc:Depends},
 Recommends:
- cinnamon-l10n (>= 4.6),
+ cinnamon-l10n (>= 4.8),
  gnome-themes-extra | gnome-themes-standard,
  gstreamer1.0-plugins-good,
  gvfs-fuse,
