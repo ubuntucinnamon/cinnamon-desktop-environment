@@ -1,8 +1,8 @@
-cinnamon-desktop-environment (4.8.0~) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (4.8.0) experimental; urgency=medium
 
   * Bump to version 4.8
 
- -- Norbert Preining <norbert@preining.info>  Fri, 27 Nov 2020 14:15:38 +0900
+ -- Norbert Preining <norbert@preining.info>  Tue, 01 Dec 2020 08:29:07 +0900
 
 cinnamon-desktop-environment (4.6.1) unstable; urgency=medium
 
