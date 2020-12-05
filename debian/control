@@ -27,6 +27,7 @@ Depends:
  ${misc:Depends},
 Recommends:
  cinnamon-l10n (>= 4.8),
+ gnome-terminal,
  gnome-themes-extra | gnome-themes-standard,
  gstreamer1.0-plugins-good,
  gvfs-fuse,
