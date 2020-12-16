@@ -1,8 +1,12 @@
-cinnamon-desktop-environment (4.8.1) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (4.8.1) unstable; urgency=medium
 
+  [ Fabio Fantoni ]
   * Add gnome-terminal to cinnamon-core recommends.
 
- -- Fabio Fantoni <fantonifabio@tiscali.it>  Sat, 05 Dec 2020 17:29:55 +0100
+  [ Norbert Preining ]
+  * Release to unstable.
+
+ -- Norbert Preining <norbert@preining.info>  Wed, 16 Dec 2020 12:37:58 +0900
 
 cinnamon-desktop-environment (4.8.0) experimental; urgency=medium
 
