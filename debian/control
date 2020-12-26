@@ -22,16 +22,20 @@ Depends:
  cinnamon-session (>= 4.8),
  cinnamon-settings-daemon (>= 4.8),
  desktop-base,
+ lightdm | gdm3 | x-display-manager,
  muffin (>= 4.8),
  nemo (>= 4.8),
+ xorg,
  ${misc:Depends},
 Recommends:
+ alsa-utils,
+ anacron,
  cinnamon-l10n (>= 4.8),
  gnome-terminal,
  gnome-themes-extra | gnome-themes-standard,
  gstreamer1.0-plugins-good,
  gvfs-fuse,
- lightdm | gdm3 | x-display-manager,
+ sudo
 Suggests: cinnamon-desktop-environment
 Description: Cinnamon desktop environment - essential components
  These are the core components of Cinnamon, a desktop environment which
