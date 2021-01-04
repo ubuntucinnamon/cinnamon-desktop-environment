@@ -1,12 +1,13 @@
-cinnamon-desktop-environment (4.8.2) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (4.8.2) unstable; urgency=medium
 
+  [ Fabio Fantoni ]
   * Changes to cinnamon-desktop-environment recommends:
     - added gnome-software, seahorse, deja-dup
     - remmina instead of vinagre (that remain as alternative)
   * Remove old transitions meta packages or removed packages:
     gnome-themes-standard, xchat, gnome-mplayer, gnome-orca
 
- -- Fabio Fantoni <fantonifabio@tiscali.it>  Fri, 25 Dec 2020 22:38:50 +0100
+ -- Norbert Preining <norbert@preining.info>  Mon, 04 Jan 2021 21:46:23 +0900
 
 cinnamon-desktop-environment (4.8.1) unstable; urgency=medium
 
