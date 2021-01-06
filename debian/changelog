@@ -13,6 +13,9 @@ cinnamon-desktop-environment (4.8.2) unstable; urgency=medium
     - remmina instead of vinagre (that remain as alternative)
   * Remove old transitions meta packages or removed packages:
     gnome-themes-standard, xchat, gnome-mplayer, gnome-orca
+  * Changes to cinnamon-core: move display manager from recommends
+    to deps and added xorg to make cinnamon working also with
+    minimal installation without recommends
 
  -- Norbert Preining <norbert@preining.info>  Mon, 04 Jan 2021 21:46:23 +0900
 
