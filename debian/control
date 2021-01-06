@@ -6,7 +6,7 @@ Uploaders:
  Maximiliano Curia <maxy@debian.org>,
  Margarita Manterola <marga@debian.org>,
  Fabio Fantoni <fantonifabio@tiscali.it>,
- Norbert Preining <norbert@preining.info>
+ Norbert Preining <norbert@preining.info>,
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.1.4
 Homepage: http://cinnamon.linuxmint.com/
@@ -35,7 +35,7 @@ Recommends:
  gnome-themes-extra,
  gstreamer1.0-plugins-good,
  gvfs-fuse,
- sudo
+ sudo,
 Suggests: cinnamon-desktop-environment
 Description: Cinnamon desktop environment - essential components
  These are the core components of Cinnamon, a desktop environment which
@@ -56,8 +56,8 @@ Depends:
  gedit,
  gnome-calculator | galculator,
  gnome-screenshot,
- thunderbird | evolution | geary,
  pidgin | empathy,
+ thunderbird | evolution | geary,
  totem | vlc,
  xdg-user-dirs-gtk,
  ${misc:Depends},
@@ -73,10 +73,9 @@ Recommends:
  gnome-disk-utility,
  gnome-font-viewer,
  gnome-games,
- orca,
+ gnome-software,
  gnome-sound-recorder,
  gnome-system-monitor,
- gnome-software,
  gnote,
  gstreamer1.0-libav,
  gstreamer1.0-plugins-ugly,
@@ -87,6 +86,7 @@ Recommends:
  libreoffice-impress,
  libreoffice-writer,
  mate-themes,
+ orca,
  remmina | vinagre,
  rhythmbox,
  rhythmbox-plugin-cdrecorder,
