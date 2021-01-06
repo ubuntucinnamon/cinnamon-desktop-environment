@@ -25,7 +25,7 @@ Depends:
  lightdm | gdm3 | x-display-manager,
  muffin (>= 4.8),
  nemo (>= 4.8),
- xorg,
+ xserver-xorg,
  ${misc:Depends},
 Recommends:
  alsa-utils,
