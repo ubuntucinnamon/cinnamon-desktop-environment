@@ -1,9 +1,10 @@
-cinnamon-desktop-environment (4.8.3) UNRELEASED; urgency=medium
+cinnamon-desktop-environment (4.8.3) unstable; urgency=medium
 
+  [ Fabio Fantoni ]
   * Cinnamon-core: depend on xserver-xorg instead xorg (Closes: #979250)
   * Move terminal dep. from cinnamon-desktop-environment to cinnamon-core
 
- -- Fabio Fantoni <fantonifabio@tiscali.it>  Wed, 06 Jan 2021 14:46:05 +0100
+ -- Norbert Preining <norbert@preining.info>  Mon, 08 Feb 2021 12:38:17 +0900
 
 cinnamon-desktop-environment (4.8.2) unstable; urgency=medium
 
